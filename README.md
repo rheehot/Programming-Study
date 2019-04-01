@@ -8,5 +8,7 @@ Android Study for future.
 - [ ] Retrofit
 - [ ] Rest API
 
-## 패턴
-- [ ] 
+## Pattern
+- [ ] MVVM
+- [ ] MVP
+- [ ] MVC
