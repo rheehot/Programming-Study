@@ -9,9 +9,14 @@ Android Study for future.
 - [ ] Retrofit
 - [ ] Rest API
 
-## Pattern
+## Pattern [[Reference]](https://academy.realm.io/kr/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android)
 - [ ] MVVM
 - [ ] MVP
 - [ ] MVC
 
-**[[Reference]](https://academy.realm.io/kr/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android)** 
+## Useful Library
+> Will be added...
+
+## Animation
+> Will be added...
+
