@@ -15,8 +15,9 @@ Android Study for future.
 - [ ] MVC
 
 ## Useful Library
-> Will be added...
+[RxAndroid](https://github.com/ReactiveX/RxAndroid)
+[Paris](https://github.com/airbnb/paris)
 
 ## Animation
-- [ ] [Shared element activity transition](https://developer.android.com/training/transitions/start-activity)
+[Shared element activity transition](https://developer.android.com/training/transitions/start-activity)
 
