@@ -18,5 +18,5 @@ Android Study for future.
 > Will be added...
 
 ## Animation
-> Will be added...
+- [ ] [Shared element activity transition](https://developer.android.com/training/transitions/start-activity)
 
