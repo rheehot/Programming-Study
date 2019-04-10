@@ -19,6 +19,9 @@ Android Study for future.
 
 [Paris](https://github.com/airbnb/paris)
 
+## Useful Something
+[Intro Slider](http://www.androidhive.info/2016/05/android-build-intro-slider-app/)
+
 ## Animation
 [Shared element activity transition](https://developer.android.com/training/transitions/start-activity)
 
