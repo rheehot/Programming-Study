@@ -11,7 +11,7 @@ Android Study for future.
 
 ## Pattern [[Reference]](https://academy.realm.io/kr/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android)
 - [ ] MVVM
-- [ ] MVP
+- [x] MVP
 - [ ] MVC
 
 ## Useful Library
