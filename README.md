@@ -15,8 +15,7 @@ Android Study for future.
 - [ ] MVC
 
 ## Useful Library
-[RxAndroid](https://github.com/ReactiveX/RxAndroid)
-
+[RxAndroid](https://github.com/ReactiveX/RxAndroid)<br>
 [Paris](https://github.com/airbnb/paris)
 
 ## Useful Something
@@ -24,5 +23,9 @@ Android Study for future.
 
 ## Animation
 [Shared element activity transition](https://developer.android.com/training/transitions/start-activity)
-
-
+[Activty change with Animation]<br>
+<img src="https://raw.githubusercontent.com/sungbin5304/Android-Study/master/untitled.gif" alt="preview" width="300" height="400">
+```kotlin
+startActivity(Intent(applicationContext, PermissionActivity::class.java))
+overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out)
+```
