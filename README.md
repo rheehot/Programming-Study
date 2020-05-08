@@ -22,9 +22,9 @@ Android Study for future.
 [Intro Slider](http://www.androidhive.info/2016/05/android-build-intro-slider-app/)
 
 ## Animation
-[Shared element activity transition](https://developer.android.com/training/transitions/start-activity)
+[Shared element activity transition](https://developer.android.com/training/transitions/start-activity)<br>
 [Activty change with Animation]<br>
-<img src="https://raw.githubusercontent.com/sungbin5304/Android-Study/master/untitled.gif" alt="preview" width="300" height="400">
+<img src="https://raw.githubusercontent.com/sungbin5304/Android-Study/master/untitled.gif" alt="preview" width="300" height="500" align="right">
 ```kotlin
 startActivity(Intent(applicationContext, PermissionActivity::class.java))
 overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out)
