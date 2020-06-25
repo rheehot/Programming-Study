@@ -1,5 +1,4 @@
-![banner](https://raw.githubusercontent.com/sungbin5304/Today-I-Learned/master/images/banner.png)
-
+![banner](https://raw.githubusercontent.com/sungbin5304/Today-I-Learned/master/banner.png)
 
 -----
 
