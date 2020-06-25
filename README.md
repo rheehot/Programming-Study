@@ -28,6 +28,7 @@
 - [ ] Dagger
 - [ ] Koin
 - [ ] Hilt
+- [ ] Paging
 
 ## Pattern 
 - [x] [MVVM](https://github.com/sungbin5304/SpotiPlayer)
