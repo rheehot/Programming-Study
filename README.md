@@ -2,11 +2,33 @@
 Programming Study for future.
 
 -----
+
+# Language
+- [x] JavaScript
+- [x] Java
+- [ ] TypeScript
+- [ ] Node.js
+- [ ] C
+- [ ] C#
+- [ ] C++
+- [x] Kotlin
+- [ ] Lua
+- [ ] Deno
+- [ ] Swift
+- [ ] Rust
+- [ ] Dart (flutter)
+
 # Android 
-## API
+## Library
 - [ ] OkHttp
 - [ ] Retrofit
-- [ ] Rest API
+- [ ] Coroutine
+- [ ] RxJava
+- [ ] RxKotlin
+- [ ] RxAndroid
+- [ ] Dagger
+- [.] Koin
+- [ ] Hilt
 
 ## Pattern 
 - [x] MVVM
@@ -15,7 +37,7 @@ Programming Study for future.
 
 -----
 
-# 용어
+# Words
 ## 블로킹/논블로킹
 > 유후상태 매커니즘
 
