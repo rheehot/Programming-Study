@@ -27,7 +27,7 @@ Programming Study for future.
 - [ ] RxKotlin
 - [ ] RxAndroid
 - [ ] Dagger
-- [.] Koin
+- [ ] Koin
 - [ ] Hilt
 
 ## Pattern 
