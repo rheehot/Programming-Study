@@ -34,6 +34,11 @@
 - [x] [MVP](https://github.com/sungbin5304/Android-Study/tree/master/pattern/MVP)
 - [ ] MVC
 
+## Life-Cycle
+
+[Activity Life-Cycle](https://raw.githubusercontent.com/sungbin5304/Today-I-Learned/master/images/Activity%20Life-Cycle.png)<br>
+[Layout Life-Cycle](https://raw.githubusercontent.com/sungbin5304/Today-I-Learned/master/images/Layout%20Life-Cycle.png)
+
 -----
 
 # Words
