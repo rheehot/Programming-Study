@@ -11,7 +11,7 @@
 - [ ] C#
 - [ ] C++
 - [x] Kotlin
-- [ ] Lua
+- [x] Lua
 - [ ] Deno
 - [ ] Swift
 - [ ] Rust
