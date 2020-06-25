@@ -8,8 +8,8 @@ Programming Study for future.
 - [ ] Retrofit
 - [ ] Rest API
 
-## Pattern [[Reference]](https://academy.realm.io/kr/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android)
-- [ ] MVVM
+## Pattern 
+- [x] MVVM
 - [x] [MVP](https://github.com/sungbin5304/Android-Study/tree/master/pattern/MVP)
 - [ ] MVC
 
