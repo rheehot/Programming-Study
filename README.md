@@ -30,7 +30,7 @@
 - [ ] Hilt
 
 ## Pattern 
-- [x] MVVM
+- [x] [MVVM](https://github.com/sungbin5304/SpotiPlayer)
 - [x] [MVP](https://github.com/sungbin5304/Android-Study/tree/master/pattern/MVP)
 - [ ] MVC
 
