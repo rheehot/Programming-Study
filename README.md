@@ -3,15 +3,15 @@
 -----
 
 # Language
-- [x] JavaScript
-- [x] Java
+- [x] [JavaScript](https://github.com/sungbin5304/KUtils)
+- [x] [Java](https://github.com/sungbin5304/SnsAutoReplyBot)
 - [ ] TypeScript
 - [ ] Node.js
 - [ ] C
 - [ ] C#
 - [ ] C++
-- [x] Kotlin
-- [x] Lua
+- [x] [Kotlin](https://github.com/sungbin5304/AndroidUtils)
+- [ ] Lua
 - [ ] Deno
 - [ ] Swift
 - [ ] Rust
