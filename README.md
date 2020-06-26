@@ -48,6 +48,12 @@
 3. BroadCast Receiver
 4. Content Provider
 
+## [Context](https://sungbin.me/m/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-Context%EC%9D%98-%EC%A2%85%EB%A5%98)
+> //todo
+
+1. Application Context
+2. Activity Context
+
 -----
 
 # Words
@@ -85,3 +91,19 @@
 
 ## 스레드
 프로세스 내에서 실행되는 흐름 단위 -> 자원 공유 O
+
+## Dependency Injection
+> 의존성 주입
+
+`java`와 `android`를 위해 완전히 정적으로 되있는 컴파일타임 의존성 주입 프레임워크
+
+## reflection
+프로그램 내부 속성을 조작할 수 있게 해줌
+
+## 싱글톤
+`scope`를 지정하고 객체를 재사용함
+
+## 보일러플레이트 코드
+> BoilerPlate Code
+
+최소한의 변경으로 여러곳에서 재사용 되며, 반복적으로 비슷한 형태를 띄는 코드
