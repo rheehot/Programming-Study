@@ -49,7 +49,7 @@
 4. Content Provider
 
 ## [Context](https://sungbin.me/m/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-Context%EC%9D%98-%EC%A2%85%EB%A5%98)
-> //todo
+> 싱글톤 인스턴스
 
 1. Application Context
 2. Activity Context
