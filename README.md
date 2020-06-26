@@ -2,7 +2,7 @@
 
 -----
 
-# Language
+# 언어
 - [x] [JavaScript](https://github.com/sungbin5304/KUtils)
 - [x] [Java](https://github.com/sungbin5304/SnsAutoReplyBot)
 - [ ] TypeScript
@@ -18,7 +18,7 @@
 - [ ] Dart (flutter)
 
 # Android 
-## Library
+## 라이브러리
 - [ ] OkHttp
 - [ ] Retrofit
 - [ ] Coroutine
@@ -33,15 +33,20 @@
 - [ ] LiveData
 - [ ] DataBinding
 
-## Pattern 
+## 아키텍처 패턴
 - [x] [MVVM](https://github.com/sungbin5304/SpotiPlayer)
 - [x] [MVP](https://github.com/sungbin5304/Android-Study/tree/master/pattern/MVP)
 - [ ] MVC
 
-## Life-Cycle
-
+## 생명주기
 [Activity Life-Cycle](https://raw.githubusercontent.com/sungbin5304/Today-I-Learned/master/images/Activity%20Life-Cycle.png)<br/>
 [Layout Life-Cycle](https://raw.githubusercontent.com/sungbin5304/Today-I-Learned/master/images/Layout%20Life-Cycle.png)
+
+## 4대 컴포너트
+1. Activity
+2. Service
+3. BroadCast Receiver
+4. Content Provider
 
 -----
 
