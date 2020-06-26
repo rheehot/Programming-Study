@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/sungbin5304/Today-I-Learned/master/banner.png)
+![banner](https://raw.githubusercontent.com/sungbin5304/Programming-Study/master/images/banner.png)
 
 -----
 
@@ -29,6 +29,9 @@
 - [ ] Koin
 - [ ] Hilt
 - [ ] Paging
+- [ ] Realm
+- [ ] LiveData
+- [ ] DataBinding
 
 ## Pattern 
 - [x] [MVVM](https://github.com/sungbin5304/SpotiPlayer)
@@ -37,7 +40,7 @@
 
 ## Life-Cycle
 
-[Activity Life-Cycle](https://raw.githubusercontent.com/sungbin5304/Today-I-Learned/master/images/Activity%20Life-Cycle.png)<br>
+[Activity Life-Cycle](https://raw.githubusercontent.com/sungbin5304/Today-I-Learned/master/images/Activity%20Life-Cycle.png)<br/>
 [Layout Life-Cycle](https://raw.githubusercontent.com/sungbin5304/Today-I-Learned/master/images/Layout%20Life-Cycle.png)
 
 -----
@@ -46,6 +49,8 @@
 ## 블로킹/논블로킹
 > 유후상태 매커니즘
 
+`블로킹` : //todo<br/>
+`논블로킹` : 블로킹의 반대 상태 -> //todo
 ## 동기/비동기
 > 순서보장 매커니즘
 
