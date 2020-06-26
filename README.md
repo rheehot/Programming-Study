@@ -32,6 +32,7 @@
 - [ ] Realm
 - [ ] LiveData
 - [ ] DataBinding
+- [ ] Room
 
 ## 아키텍처 패턴
 - [x] [MVVM](https://github.com/sungbin5304/SpotiPlayer)
